@@ -1,2 +1,6 @@
 # redmoonprotocol
- The Redmoon protocol is a RFI fork with additional functions to further improve the tokenomics. These functions feature autostaking and auto-liquidity generation.  Firstly, the dev has minted the tokens and sent the 75% of the supply to launch a DxSale presale for a fair launch. The remaining 25% of the supply will be burned. The dev will NOT partake in the presale to ensure that the supply is distributed among its community. The dev will acquire tokens after the presale. Redmoon is strictly a 100% community driven token and therefore the liquidity will be auto-locked for 4 years and there is no mint function, thus no rugpull possible.  #Redmoon, join us to the red moon!
+The Redmoon protocol is a RFI fork with additional functions to further improve its tokenomics. These functions feature autostaking and auto-liquidity generation.
+
+
+The protocol solves several issues. First of all, static rewards is a mechanism that aims to solve the sell pressure of a token by early adopters after farming large APY’s (eg. Goose or Meerkat). The reflection creates the incentive for holders to HODL their tokens, the percentage received depends on the amount of tokens held by the owner. Essentially, The protocol solves the inherent issues that lie with DeFi farming DApps where pumping and dumping often takes place. 
+
