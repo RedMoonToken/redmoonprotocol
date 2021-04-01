@@ -1,4 +1,4 @@
-# redmoonprotocol
+# redmoon protocol
 The Redmoon protocol is a RFI fork with additional functions to further improve its tokenomics. These functions feature autostaking and auto-liquidity generation.
 
 
